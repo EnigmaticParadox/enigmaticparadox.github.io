@@ -9,6 +9,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+Legend:
+'+' Addition
+'-' Removal
+'!' Bug fix
+'*' Update/improvement
+'.' No change
+'/' Change (non bug-fix)
+
+Version number legend:
+x.x.x
+| | |
+| | program/definition update, minor change, or bugfix (critical or regular)
+| regular release or feature change
+major feature change
+
+
 Syntax highlighted code block
 
 # Header 1
